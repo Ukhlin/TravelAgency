@@ -1,2 +1,0 @@
-<groupid>1</groupid>
-<artifactid>1</artifactid>
